@@ -3,25 +3,62 @@ layout: default
 title: Terms of Service
 ---
 
-# Terms of Service
+# Rhythm Runner Terms of Service and Confidentiality Agreement
 
-*Last updated: **February 20, 2026***
+**Effective Date:** February 20, 2026  
+**App Name:** Rhythm Runner  
+**Company:** Rhythm Runners Group  
+**Contact Email:** [rhythmrunnerapp@gmail.com](mailto:rhythmrunnerapp@gmail.com)
 
-Welcome to Rhythm Runner. These Terms of Service ("Terms") govern your use of the Rhythm Runner mobile application and related services.
+---
 
-> **Note:** We are currently updating our full Terms of Service. Please check back soon or contact us if you have specific questions.
+### 1. Acceptance of Terms
+By creating an account and using Rhythm Runner, you agree to be bound by these Terms of Service ("Terms"). If you do not agree, do not use the app.
 
-## 1. Acceptance of Terms
-By downloading or using Rhythm Runner, you agree to be bound by these Terms. If you do not agree, please do not use the app.
+### 2. Eligibility
+You must be at least 13 years old to use Rhythm Runner. By using the app, you confirm you meet this requirement.
 
-## 2. Use of the Service
-Rhythm Runner is intended for personal, non-commercial use. You are responsible for maintaining the security of your account and for all activities that occur under your account.
+### 3. Use of the App
+Rhythm Runner provides music-enhanced running analytics, personalized visuals, and performance insights based on your activity and music data. You agree to use the app only for lawful, personal, and non-commercial purposes.
 
-## 3. Health and Safety
-**Safety First:** Always be aware of your surroundings while running. Do not use the app in a way that distracts you from safe movement or traffic. Consult a physician before starting any new exercise program.
+### 4. User Data & Privacy
+Your health, location, and music data may be collected and used to provide services and insights. We respect your privacy. For details, see our [Privacy Policy](privacypolicy).
 
-## 4. Contact Us
-If you have any questions about these Terms, please contact us at [rhythmrunnerapp@gmail.com](mailto:rhythmrunnerapp@gmail.com).
+### 5. Account Security
+You are responsible for maintaining the confidentiality of your account. You agree not to share your login credentials or allow others to access your account.
+
+### 6. Confidentiality & NDA Terms
+As a user, you may be exposed to non-public features, designs, concepts, and technology related to Rhythm Runner. You agree that:
+*   You will not disclose, reproduce, or distribute any confidential information, including beta features, visualizations, algorithms, or internal metrics.
+*   You will not reverse-engineer or attempt to copy the app's functionality or design.
+*   This obligation continues even if you stop using the app.
+*   This confidentiality clause acts as a non-disclosure agreement between you and Rhythm Runner.
+
+### 7. Ownership
+All content, trademarks, and technology used in Rhythm Runner are owned by or licensed to the Company. You are granted a limited, non-exclusive, revocable license to use the app.
+
+### 8. User Content
+You retain ownership of any content you upload (e.g., run logs, screenshots), but you grant us permission to use it to operate and improve the service.
+
+### 9. Third-Party Services and Content
+Rhythm Runner includes music preview links via Apple Music and Spotify APIs, subject to their respective terms. Users are responsible for how they share their own content using these features.
+
+### 10. Termination
+We may suspend or terminate your account for violations of these Terms. You may stop using the app at any time. Upon termination, confidentiality obligations still apply.
+
+### 11. Limitation of Liability
+To the fullest extent permitted by law, the Company is not liable for any indirect, incidental, or consequential damages related to your use of the app.
+
+### 12. Changes to These Terms
+We may update these Terms from time to time. Continued use of the app means you accept the updated Terms.
+
+### 13. Governing Law
+These Terms are governed by the laws of [Your State/Country], without regard to conflict of law principles.
+
+### 14. Contact
+For questions about these Terms, email us at: [rhythmrunnerapp@gmail.com](mailto:rhythmrunnerapp@gmail.com)
+
+**By creating an account or using Rhythm Runner, you agree to these Terms and the Confidentiality Agreement.**
 
 ---
 [Back to Legal Home](index)

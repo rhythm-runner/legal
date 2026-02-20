@@ -48,7 +48,9 @@ Rhythm Runner has a zero-tolerance policy for objectionable content or abusive u
 Any user found violating these terms will be immediately removed and banned from the platform without notice.
 
 ### 9. Third-Party Services and Content
-Rhythm Runner includes music preview links via Apple Music and Spotify APIs, subject to their respective terms. Users are responsible for how they share their own content using these features.
+Rhythm Runner includes music preview links and metadata via Apple Music and Spotify APIs, subject to their respective terms.
+
+Users may encounter explicit content (lyrics or artwork) synced from these third-party music services. By using the app, you acknowledge that Rhythm Runner does not filter this metadata and you agree to use the app at your own discretion.
 
 ### 10. Termination
 We may suspend or terminate your account for violations of these Terms. You may stop using the app at any time. Upon termination, confidentiality obligations still apply.

@@ -3,5 +3,5 @@ layout: default
 title: Rhythm Runner Legal
 ---
 
-- [Privacy Policy](privacypolicy.html)
-- [Terms of Service](terms.html)
+- [Privacy Policy](privacypolicy.md)
+- [Terms of Service](terms.md)

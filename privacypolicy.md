@@ -3,48 +3,48 @@ layout: default
 title: Privacy Policy
 ---
 
-<p><em>Last updated: <strong>February 20, 2026</strong></em></p>
+# Privacy Policy
 
-<p>
-  Rhythm Runner (“we,” “us”) provides a running journal experience that can associate your runs with music you listened to.
-  This policy explains what we collect and how we use it.
-</p>
+*Last updated: **February 20, 2026***
 
-<h2>Information we collect</h2>
-<ul>
-  <li><strong>Account information</strong> (e.g., email, user ID) to create and manage your account.</li>
-  <li><strong>Run data</strong> you choose to record (e.g., time, distance, pace).</li>
-  <li><strong>Location data</strong> (if you grant permission) to record routes and map moments of your run.</li>
-  <li><strong>Music-related data</strong> (if you connect a music service) such as track identifiers and timestamps needed to show what you listened to during a run.</li>
-  <li><strong>Device/usage data</strong> (basic diagnostics like crash logs) to improve reliability.</li>
-  <li><strong>User content</strong> you choose to upload (e.g., optional photos).</li>
-</ul>
+Rhythm Runner (“we,” “us”) provides a running journal experience that can associate your runs with music you listened to. This policy explains what we collect and how we use it.
 
-<h2>How we use information</h2>
-<ul>
-  <li>Provide core features (saving runs, showing your music timeline, displaying maps).</li>
-  <li>Improve performance, fix bugs, and maintain security.</li>
-  <li>Provide support and respond to requests.</li>
-</ul>
+---
 
-<h2>Sharing</h2>
-<p>
-  We do not sell your personal information. We may share information with service providers that help operate the app
-  (e.g., hosting, analytics, storage), and only as needed to provide the service.
-</p>
+## 1. Information We Collect
 
-<h2>Your choices</h2>
-<ul>
-  <li>You can disable permissions (like Location) in iOS Settings; some features may not work without them.</li>
-  <li>You can request deletion of your account and associated data from within the app (Settings → Delete Account).</li>
-</ul>
+*   **Account Information**: Email and user ID to manage your account.
+*   **Run Data**: Time, distance, and pace recorded during your activities.
+*   **Location Data**: GPS data (with your permission) to map your routes.
+*   **Music Data**: Track identifiers and timestamps from connected music services.
+*   **Diagnostics**: Basic crash logs and device data to improve app stability.
+*   **User Content**: Optional photos or other content you choose to upload.
 
-<h2>Data retention</h2>
-<p>
-  We retain your data until you delete it or delete your account, unless we need to keep certain information to comply with law or protect safety.
-</p>
+## 2. How We Use Information
 
-<h2>Contact</h2>
-<p>
-  Email: <a href="mailto:rhythmrunnerapp@gmail.com">rhythmrunnerapp@gmail.com</a>
-</p>
+We use your information to provide the core features of Rhythm Runner, including:
+*   Saving and displaying your run history.
+*   Syncing music timelines with your runs.
+*   Improving performance, fixing bugs, and maintaining security.
+*   Providing technical support and responding to requests.
+
+## 3. Data Sharing & Security
+
+**We do not sell your personal information.** We only share data with essential service providers (like hosting and analytics) required to operate the app.
+
+## 4. Your Choices & Deletion
+
+*   **Permissions**: You can manage Location and Music permissions in iOS Settings at any time.
+*   **Data Deletion**: You can request account and data deletion directly within the app via **Settings → Delete Account**.
+
+## 5. Data Retention
+
+We retain your data until you delete it or delete your account, unless we need to keep certain information to comply with law or protect safety.
+
+## 6. Contact
+
+If you have any questions, please reach out to us:
+**Email:** [rhythmrunnerapp@gmail.com](mailto:rhythmrunnerapp@gmail.com)
+
+---
+[Back to Legal Home](index)

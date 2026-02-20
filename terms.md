@@ -40,6 +40,13 @@ All content, trademarks, and technology used in Rhythm Runner are owned by or li
 ### 8. User Content
 You retain ownership of any content you upload (e.g., run logs, screenshots), but you grant us permission to use it to operate and improve the service.
 
+Rhythm Runner has a zero-tolerance policy for objectionable content or abusive users. You agree not to post content that is:
+• Harassing, threatening, or abusive.
+• Sexually explicit or pornographic.
+• Hate speech or discriminatory.
+• Promoting illegal activities.
+Any user found violating these terms will be immediately removed and banned from the platform without notice.
+
 ### 9. Third-Party Services and Content
 Rhythm Runner includes music preview links via Apple Music and Spotify APIs, subject to their respective terms. Users are responsible for how they share their own content using these features.
 

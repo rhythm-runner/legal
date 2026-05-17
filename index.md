@@ -8,11 +8,11 @@ title: Legal & Privacy
 Welcome to the Rhythm Runner legal center. Below you will find the official documents regarding your privacy and our terms of service.
 
 ### [Privacy Policy](privacypolicy)
-*Last updated: February 20, 2026*  
+*Last updated: May 16, 2026*  
 Learn about what data we collect and how we protect your information.
 
 ### [Terms of Service](terms)
-*Last updated: February 20, 2026*  
+*Last updated: May 16, 2026*  
 Understand the rules and guidelines for using the Rhythm Runner app.
 
 ---

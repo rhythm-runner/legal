@@ -53,6 +53,9 @@ Rhythm Runner includes live AI features. We may process relevant app data to pro
 ### J. Diagnostics, Analytics, and Device Information
 We collect crash logs, error reports, app version, device type, operating system version, performance data, product interaction data, approximate usage patterns, and security or abuse-prevention data. This information is used for reliability, debugging, performance, safety, security, abuse prevention, and app improvement.
 
+### K. Contacts and Friend Discovery
+With your permission, Rhythm Runner may access your device contacts to help you find friends who use Rhythm Runner. Contact information may include email addresses, phone numbers, and names if available through iOS Contacts. This information is used for friend discovery, matching contacts against Rhythm Runner users, and app functionality.
+
 ---
 
 ## 2. How We Use Information
@@ -67,6 +70,7 @@ Rhythm Runner uses the information we collect to:
 *   Provide music timelines and run memories.
 *   Provide AI-assisted summaries, reflections, recommendations, images, and insights.
 *   Support social features such as profiles, friends, shared runs, blocking, reporting, and moderation.
+*   Help users find friends and match contacts against Rhythm Runner users to support friend discovery.
 *   Provide support.
 *   Improve performance, reliability, security, and user experience.
 *   Prevent abuse and enforce our Terms.
@@ -94,7 +98,7 @@ Provider examples may include:
 *   Gemini / Google AI
 *   Spotify (external links where available, but not general Spotify account connection)
 
-These providers process information as needed to provide their services.
+These providers process information as needed to provide their services. Note that contacts are not sold, shared with data brokers, or used for advertising. Contact information may be processed by trusted service providers only as needed to provide friend discovery and app functionality.
 
 ### C. Connected Services
 If you authorize or use Apple Music, HealthKit, mapping, weather, or other connected services, information may be exchanged as needed for those features and governed by those services’ own terms and privacy policies.
@@ -112,9 +116,9 @@ If we are involved in a merger, acquisition, financing, reorganization, or sale 
 
 ## 4. No Tracking / Advertising
 
-*   Rhythm Runner does not sell personal information.
-*   Rhythm Runner does not share personal information with data brokers.
-*   Rhythm Runner does not use HealthKit data, precise location data, or music listening data for third-party advertising.
+*   Rhythm Runner does not sell personal information or contacts.
+*   Rhythm Runner does not share personal information or contacts with data brokers.
+*   Rhythm Runner does not use HealthKit data, contacts, precise location data, or music listening data for third-party advertising.
 *   Rhythm Runner does not use personal information to track users across apps or websites for advertising purposes.
 
 ---
@@ -124,6 +128,7 @@ If we are involved in a merger, acquisition, financing, reorganization, or sale 
 You can manage your information and permissions in several ways:
 *   **Location permission:** Manage in iOS Settings.
 *   **Photos permission:** Manage in iOS Settings.
+*   **Contacts permission:** Manage in iOS Settings. Disabling Contacts permission may limit friend discovery features but will not prevent core run recording.
 *   **HealthKit permission:** Manage in Apple Health or iOS Settings.
 *   **Notifications:** Manage in iOS Settings.
 *   **Music service permissions:** Manage in the respective service settings where applicable.

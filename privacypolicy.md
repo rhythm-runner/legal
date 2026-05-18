@@ -24,7 +24,7 @@ We collect information to create and manage your account, including your email a
 When you use Rhythm Runner, we collect run start and end times, duration, distance, pace, timestamps, route and activity events, saved runs, and activity metrics.
 
 ### C. Location and Route Data
-If you grant permission, we collect your precise GPS location while recording a run. This includes GPS coordinates, route paths, timestamps, pace and location-related data, map visualizations, and beginning/end route hiding where available. 
+If you grant permission, we collect your precise GPS location while recording a run. This tracking occurs in the background (including when the app is minimized or your screen is locked), but *only* while you are actively recording a run. This includes GPS coordinates, route paths, timestamps, pace and location-related data, map visualizations, and beginning/end route hiding where available. 
 
 This location data is used to map routes, associate music with locations and moments, calculate activity metrics, retrieve contextual run information, and create run memories.
 
@@ -39,7 +39,7 @@ We collect music data to associate your listening experience with your runs. Thi
 *Note regarding Spotify:* Spotify account connection is not currently supported for general users, but the app may display external links to Spotify songs where available. Rhythm Runner does not currently collect Spotify account authentication data from general users.
 
 ### F. Weather Data
-Rhythm Runner may process your run time, approximate or precise location/route context, and related activity context to retrieve weather information, such as temperature, conditions, wind, humidity, and weather summary or metrics. Visual Crossing may be used to provide weather data associated with your runs.
+Rhythm Runner may process your run time, approximate or precise location/route context, and related activity context to retrieve weather information, such as temperature, conditions, wind, humidity, and weather summary or metrics. Apple WeatherKit and/or Visual Crossing may be used to provide weather data associated with your runs.
 
 ### G. Photos and User Content
 We collect content you choose to provide, including photos, captions, run names, profile information, comments (if applicable), tags/vibes, reports, and other content you choose to upload or create. Please note that photos or content may reveal location, people, or personal details, and you are responsible for choosing what you upload and share.
@@ -51,10 +51,10 @@ We collect information related to your social interactions, including friend rel
 Rhythm Runner includes live AI features. We may process relevant app data to provide AI-assisted features, such as run summaries, reflections, recommendations, visualizations, generated images, and insights. Relevant app data may include run data, route/location context, music data, weather context, user-provided prompts or captions, photos selected by the user, and related app data. Service providers for these features may include Stability AI and Gemini / Google AI.
 
 ### J. Diagnostics, Analytics, and Device Information
-We collect crash logs, error reports, app version, device type, operating system version, performance data, product interaction data, approximate usage patterns, and security or abuse-prevention data. This information is used for reliability, debugging, performance, safety, security, abuse prevention, and app improvement.
+We collect crash logs, error reports, app version, device type, operating system version, performance data, product interaction data, approximate usage patterns, and security or abuse-prevention data. We use services such as Firebase Analytics and Firebase Crashlytics to process this information. This information is used for reliability, debugging, performance, safety, security, abuse prevention, and app improvement.
 
 ### K. Contacts and Friend Discovery
-With your permission, Rhythm Runner may access your device contacts to help you find friends who use Rhythm Runner. Contact information may include email addresses, phone numbers, and names if available through iOS Contacts. This information is used for friend discovery, matching contacts against Rhythm Runner users, and app functionality.
+With your permission, Rhythm Runner may access your device contacts (via iOS Contacts) to help you find friends who use Rhythm Runner. Contact information may include email addresses, phone numbers, and names if available. This information is used solely for friend discovery, matching contacts against Rhythm Runner users, and app functionality. We do not permanently store your raw contacts, nor do we sell or share them with data brokers or advertising networks.
 
 ---
 
@@ -87,10 +87,11 @@ Rhythm Runner uses the information we collect to:
 Rhythm Runner may share information with trusted providers that help operate the app, including services for authentication, hosting, database, file storage, analytics, crash reporting, search, maps, weather, music integrations, AI and content generation, customer support, and security. 
 
 Provider examples may include:
-*   Firebase / Google Cloud
+*   Firebase / Google Cloud (including Firebase Analytics and Firebase Crashlytics)
 *   Algolia
 *   Mapbox
 *   Apple Music / MusicKit
+*   Apple WeatherKit
 *   Apple Health / HealthKit (where authorized by the user)
 *   Visual Crossing
 *   Stability AI
